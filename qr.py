@@ -1,6 +1,6 @@
-pip install pyqrcode,qrcode
+#pip install pyqrcode,qrcode
 
--------------------------------------------------
+#-------------------------------------------------
 import qrcode
 
 img=qrcode.make('www.google.com')
